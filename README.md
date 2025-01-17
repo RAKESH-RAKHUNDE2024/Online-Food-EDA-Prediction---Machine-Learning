@@ -1,7 +1,7 @@
 # Project Summary: Online Food Eda & Prediction - Machine Learning
 
 ## Objective:-
-The Goal Of This Project Is To Analyze And Predict Consumer Behavior Towards Online Food Services Using Machine Learning Techniques. By Performing Exploratory Data Analysis (Eda) On The "Onlinefoods" Dataset, We Aim To Derive Insights Related To User Demographics, Preferences, And Feedback, And Use This Information To Build A Predictive Model. This Model Will Help In Understanding The Factors That Influence Customer Satisfaction And Can Be Used To Predict Future Feedback Based On Different Variables.
+The Goal Of This Project Is To Analyze And Predict Consumer Behavior Towards Online Food Services Using Machine Learning Techniques. By Performing Exploratory Data Analysis (EDA) On The "Onlinefoods" Dataset, We Aim To Derive Insights Related To User Demographics, Preferences, And Feedback, And Use This Information To Build A Predictive Model. This Model Will Help In Understanding The Factors That Influence Customer Satisfaction And Can Be Used To Predict Future Feedback Based On Different Variables.
 
 ### Dataset Overview:-
 The Dataset, Named "Onlinefoods", Contains The Following Columns:
@@ -35,7 +35,7 @@ The Dataset, Named "Onlinefoods", Contains The Following Columns:
    - This Analysis Reveals How Consumer Feedback Varies According To Their Educational Background. It Helps Identify Whether Educated Consumers Tend To Give Higher Or Lower Ratings, And Can Provide Insights Into Their Expectations From Food Services.
 
 ## Machine Learning Objective:-
-Beyond The Eda, The Primary Objective Is To Develop A Machine Learning Model That Predicts Consumer Feedback Based On The Other Demographic And Location-based Variables. Using Techniques Such As Regression Or Classification Algorithms, We Aim To Create A Model That Can Predict The Output (Feedback) Based On Features Such As Age, Gender, Occupation, And Income.
+Beyond The EDA, The Primary Objective Is To Develop A Machine Learning Model That Predicts Consumer Feedback Based On The Other Demographic And Location-based Variables. Using Techniques Such As Regression Or Classification Algorithms, We Aim To Create A Model That Can Predict The Output (Feedback) Based On Features Such As Age, Gender, Occupation, And Income.
 
 ## Conclusion:-
 The Project Provides A Comprehensive Analysis Of The "Onlinefoods" Dataset, Offering Valuable Insights Into How Different Demographic And Location-based Factors Affect Consumer Feedback. These Insights Can Be Leveraged By Online Food Service Providers To Understand Customer Preferences, Improve Their Services, And Tailor Their Marketing Strategies. Additionally, By Developing A Predictive Model, Businesses Can Anticipate Customer Feedback And Make Data-driven Decisions For Future Improvements.
